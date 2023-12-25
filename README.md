@@ -71,6 +71,6 @@ Data about movies, sessions, and tickets are stored in CSV files (movies.csv, se
 
 # Diagrams
 ## Class Diagram
-![Class diagram]([http://url/to/img.png](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)
+![Class diagram](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)
 ## Use Case Diagram
-![Use Case diagram]([[http://url/to/img.png](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Use-Case.jpg)https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Use-Case.jpg)
+![Use Case diagram](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)
