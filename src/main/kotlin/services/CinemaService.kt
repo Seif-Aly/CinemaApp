@@ -34,7 +34,7 @@ class CinemaService(
 
     fun refundTicket(ticketId: String): Boolean {
         val ticket = ticketRepository.getTicketById(ticketId)
-        return if (ticket != null) {
+        return if (ticket != null && isBeforeSessionStart(ticket.session)) {
             ticketRepository.deleteTicket(ticketId)
             val session = ticket.session
             session.availableSeats.add(ticket.seatNumber)
@@ -42,6 +42,11 @@ class CinemaService(
         } else {
             false
         }
+    }
+
+    private fun isBeforeSessionStart(session: Session): Boolean {
+        val currentDateTime = LocalDateTime.now()
+        return currentDateTime.isBefore(session.showingTime)
     }
 
     fun displayAvailableSeats(sessionId: String): List<Int>? {

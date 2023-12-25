@@ -60,10 +60,13 @@ Enter the Ticket ID to refund a ticket.
 In the session menu, you can edit data about movies and sessions:
 1. Edit Movie
 2. Edit Session
+3. Back to Main Menu
 ### Option 1 (Edit Movie):
 Modify information about the selected movie.
 ### Option 2 (Edit Session):
 Change details about the selected session, such as showing time or available seats.
+### Option 3 (Back to Main Menu):
+Return to main menu
 
 ## Additional Notes
 Data about movies, sessions, and tickets are stored in CSV files (movies.csv, sessions.csv, tickets.csv).

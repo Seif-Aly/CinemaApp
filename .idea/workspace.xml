@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="841db44e-6cbc-4798-889f-a2a44763f97d" name="Changes" comment="Initial commit">
+    <list default="true" id="841db44e-6cbc-4798-889f-a2a44763f97d" name="Changes" comment="Upload diagrams">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/launch/RunApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/launch/RunApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/services/CinemaService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/services/CinemaService.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -72,7 +77,7 @@
       <workItem from="1702744964122" duration="598000" />
       <workItem from="1703106573911" duration="24698000" />
       <workItem from="1703436584320" duration="31000" />
-      <workItem from="1703436661994" duration="4302000" />
+      <workItem from="1703436661994" duration="5141000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -82,7 +87,31 @@
       <option name="project" value="LOCAL" />
       <updated>1703437111364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload diagrams">
+      <option name="closed" value="true" />
+      <created>1703497049041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703497049041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upload diagrams">
+      <option name="closed" value="true" />
+      <created>1703497126224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703497126224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upload diagrams">
+      <option name="closed" value="true" />
+      <created>1703497180568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703497180569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Upload diagrams" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload diagrams" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

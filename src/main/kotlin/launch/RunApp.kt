@@ -96,6 +96,7 @@ class RunApp {
     private fun editMovieOrSession(cinemaService: CinemaService) {
         println("\n1. Edit Movie")
         println("2. Edit Session")
+        println("3. Back to Main Menu")
         print("\nEnter your choice: ")
 
         when (readLine()?.toIntOrNull()) {
@@ -104,6 +105,10 @@ class RunApp {
             }
             2 -> {
                 editSession(cinemaService)
+            }
+            3 -> {
+                println("Returning to the Main Menu.")
+                return
             }
             else -> {
                 println("Invalid choice.")
