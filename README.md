@@ -63,6 +63,7 @@ In the session menu, you can edit data about movies and sessions:
 3. Back to Main Menu
 ### Option 1 (Edit Movie):
 Modify information about the selected movie.
+
 ### Option 2 (Edit Session):
 Change details about the selected session, such as showing time or available seats.
 ### Option 3 (Back to Main Menu):
@@ -70,3 +71,9 @@ Return to main menu
 
 ## Additional Notes
 Data about movies, sessions, and tickets are stored in CSV files (movies.csv, sessions.csv, tickets.csv).
+
+# Diagrams
+## Class Diagram
+![Class diagram](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Class%20diagram.png)
+## Use Case Diagram
+![Use Case diagram](https://github.com/Seif-Aly/CinemaApp/blob/main/Images/Use-Case.jpg)
